@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #659cb6, #429471);
+}
+
+.main {
+    background-color: linear-gradient(to right, #429471, #659cb6);
+    text-align: center;
+    max-width: 375px;
+    margin: 120px auto;
+    padding: 20px;
+    border-radius: 15px;
+    font-family: 'Manrope', sans-serif;
+    max-height: 300px;
+ }
