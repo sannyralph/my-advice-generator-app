@@ -17,28 +17,7 @@ function App() {
         })
     }
 
-  return (
-    // <div class="main">
-    //     <h1> 
-    //         {<div class="advice-Num">
-    //             Inspire to Maguire for Today Nō <span id="advice-Num"></span>
-    //         </div>}
-    //     </h1>
-
-    //     <div class="main-advice">
-    //         "<span id="main-advice"></span>"
-    //     </div>
-    
-    //     <br>
-    //     <img src="images/pattern-divider-desktop.svg" alt="line breaker" width="300px">
-    
-    //     <div id="die" class="dice">
-    //         <button>
-    //             <img src="images/icon-dice.svg" alt="a rolling dice" width="18px">
-    //         </button>
-    //     </div>
-    // </div>
-  
+  return (  
     <div className="App main" Container maxWidth="sm">
       <div>
         <h1>
